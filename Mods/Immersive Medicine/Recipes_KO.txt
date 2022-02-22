@@ -1,0 +1,4 @@
+Recipe_KO = {
+	Recipe_Disinfect_Blood_Bag = "혈액 팩 소독하기",
+	Recipe_Clean_Blood_Bag = "혈액 팩 씻기",
+}
