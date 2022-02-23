@@ -68,9 +68,9 @@ Sandbox_KO = {
     Sandbox_MoreTraits_IngenuitiveLimit = "독창적 제한",
     Sandbox_MoreTraits_IngenuitiveLimit_tooltip = "독창적 특성으로 얻을 수 있는 제작법의 양을 제한합니다.<br>기본적으로는 독창적 특성을 가진 플레이어는 모든 제작법을 얻습니다.<br>이 설정을 활성화하면 얻는 제작법의 양을 제한할 수 있습니다.",
     Sandbox_MoreTraits_SlowWorkerScaler = "손이 느림 배율",
-    Sandbox_MoreTraits_SlowWorkerScaler_tooltip = "시간이 드는 행동을 수행하는 데 얼마나 느리게 수행할지 정하는 배율입니다.<br>높은 값으로 두면 시간이 드는 행동을 더 천천히 수행합니다.<br>이 값을 너무 높이면 너무 느려서 아무 행동도, 특히 독서를 할 수 없게 될 수 있습니다.",
+    Sandbox_MoreTraits_SlowWorkerScaler_tooltip = "시간이 드는 행동을 수행하는 데 얼마나 느리게 수행할지 정하는 배율입니다.<br>높은 값으로 설정하면 시간이 드는 행동을 더 천천히 수행합니다.<br>이 값을 너무 높이면 너무 느려서 아무 행동도, 특히 독서를 할 수 없게 될 수 있습니다.",
     Sandbox_MoreTraits_MartialWeapons = "무술가 무기로 밀치기 허용",
     Sandbox_MoreTraits_MartialWeapons_tooltip = "기본적으로는 무술가는 맨손으로만 피해를 가할 수 있습니다.<br>활성화되면 무기를 들고 있어도 피해를 가합니다.<br>비활성화해도 보조도구에 무언가를 착용한 상태로도 피해를 입힐 수는 있습니다. (손전등, 가방 등). 주무기만 들고 있지 않으면 됩니다.",
-    Sandbox_MoreTraits_AntiqueChance = "골동품 수집가 확률 분보",
-    Sandbox_MoreTraits_AntiqueChance_tooltip = "골동품의 희귀도입니다.<br>이 값은 1/X의 X에 해당합니다.<br>높은 값으로 두면 골동품이 덜 자주 나옵니다.",
+    Sandbox_MoreTraits_AntiqueChance = "골동품 수집가 확률 분모",
+    Sandbox_MoreTraits_AntiqueChance_tooltip = "골동품의 희귀도입니다.<br>이 값은 1/X에서 X에 해당합니다.<br>높은 값으로 설정하면 골동품이 덜 자주 나옵니다.",
 }
