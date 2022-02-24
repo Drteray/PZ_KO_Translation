@@ -25,10 +25,41 @@
 
 ### 모드
 
+만약 모드 번역을 업데이트 전에 미리 적용하고 싶다면, 본 게임에서 같은 이름을 가진 텍스트 파일을 찾아 그 안에 번역된 모드 번역 텍스트를 집어넣으면 됨.
+
+예 : 모드에서 번역된 UI_KO 파일을 본 게임에 적용시키려면, 본 게임의 UI_KO 파일을 찾아가 아래와 같이 편집한다.
+```
+UI_KO = {
+    UI_mainscreen_tutorial = "게임 배우기",
+    UI_mainscreen_beginner = "처음 사용자용 게임",
+    UI_mainscrren_laststane = "마지막 저항",
+    
+    .
+    . (중략)
+    .
+    
+    UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "색 변화만 사용",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Both = "뿌연 효과와 색 변화 사용",
+    UI_optionscreen_Search_Mode_Overlay_Effect_None = "아무런 효과 사용하지 않음",  [<== 바닐라 게임 UI 파일의 마지막 줄(이미 넣어 둔 모드 텍스트가 있다면 예시와 다를 수 있음)]
+    (여기에 엔터를 치고 모드 파일 텍스트를 삽입 (아래 중괄호 '}' 와, 윗줄과 같은 원래 파일의 마지막 줄 사이에 삽입)
+    UI_trait_gunspecialist = "총기 전문가",
+    UI_trait_gunspecialistdesc = "총기에 대한 고급 지식을 가지고 게임을 시작합니다.<br>+2 조준<br>+2 재장전",
+    UI_trait_preparedfood = "대비함: 음식",
+    
+    .
+    . (중략)
+    .
+    
+    UI_MoreTraits_Options_AlbinoAnnounce_ToolTip = "햇빛 알레르기 특성을 가지고 있을 때, 햇빛 때문에 고통받게 되면 알림을 받습니다.",
+    UI_MoreTraits_Options_MartialDamage = "무술가 피해 표시",
+    UI_MoreTraits_Options_MartialDamage_ToolTip = "무술가 특성을 가지고 있을 때, 플레이어가 가하는 피해를 표시하는 팝업이 생깁니다.",
+} <== 이렇게 중괄호 안에 넣어야 함
+```
+  
 **Immersive Medicine(이머시브 메디슨)** : 100% 번역 완료. 모드 제작자에게 파일 제공 완료. 본 모드에 적용 완료.
 
 모드 페이지 : https://steamcommunity.com/sharedfiles/filedetails/?id=2709866494
 
-**More Traits(모어 트레잇)** : 100% 번역 완료. 모드 제작자에게 파일 미제공. 본 모드에 미적용.
+**More Traits(모어 트레잇)** : 100% 번역 완료. 모드 제작자에게 파일 제공 완료. 본 모드에 미적용.
 
 모드 페이지 : https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280
