@@ -56,10 +56,10 @@ UI_KO = {
 } <== 이렇게 중괄호 안에 넣어야 함
 ```
   
-**Immersive Medicine(이머시브 메디슨)** : 100% 번역 완료. 모드 제작자에게 파일 제공 완료. 본 모드에 적용 완료.
+**Immersive Medicine(이머시브 메디슨)** : 100% 번역 완료. 모드 제작자에게 파일 제공 완료. 본 모드에 적용.
 
 모드 페이지 : https://steamcommunity.com/sharedfiles/filedetails/?id=2709866494
 
-**More Traits(모어 트레잇)** : 100% 번역 완료. 모드 제작자에게 파일 제공 완료. 본 모드에 미적용.
+**More Traits(모어 트레잇)** : 100% 번역 완료. 모드 제작자에게 파일 제공 완료. 본 모드에 적용.
 
 모드 페이지 : https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280
