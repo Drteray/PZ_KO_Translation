@@ -98,7 +98,7 @@
 	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] 그리고 당신도... 당신 자신도 날 사랑한다는 걸 알고 있어요, 오오. [img=music]
 
 	////29. ORIGINAL [#FF7030A0]: ... by The Question.
-	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = ...숨겨진입니다.
+	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = ...'숨겨진'입니다.
 
 	////30. ORIGINAL [#FFFFC000]: [img=music] ... to get a dime stuck in your shoe. [img=music]
 	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ...너무나도 잔혹한 일이야. [img=music]
@@ -113,37 +113,37 @@
 	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = 거의 하룻밤 사이에 군사 경계선이 설치되었습니다.
 
 	////34. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
-	4f5162dd-e620-40e0-813e-2841fd354881 = 저도 혼란스러울 겁니다. 자고 일어났더니 주변에 군인들이 저지선을 둘렀다면요!
+	4f5162dd-e620-40e0-813e-2841fd354881 = 저도 혼란스러울 겁니다, 자고 일어났더니 주변에 군인들이 저지선을 둘렀다면요!
 
 	////35. ORIGINAL [#FF00B050]: So let's support our boys, people.
-	a61a997f-d433-4aaa-9e66-6d81f60cc012 = 그러니 여러분, 응원합시다.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = 그러니 여러분, 그 사람들을 응원합시다.
 
 	////36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
-	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = '우리는 오랜시간 동안 준비가 되지 않았습니다.'
+	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = '우리는 오랫동안 준비가 되어 있지 않았던 것이다.'
 
 	////37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
-	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = 사람들은 그저 무엇을 해야 할지 모르고 있고, 군대는 그들을 어떻게 해야 할지 모르고 있습니다.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = 사람들은 뭘 어째야 할지 모르고 있고, 군도 그런 사람들을 어째야 할지 모르고 있습니다.
 
 	////38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
-	3433cccb-5d67-467b-89f2-bcb69677b093 = 군은 때를 기다리고 있습니다. 우리가 안전하게 지낼 수 있도록요. 
+	3433cccb-5d67-467b-89f2-bcb69677b093 = 군은 때를 기다리고 있습니다. 우리가 안전하게 지낼 수 있도록요.
 
 	////39. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
-	a33a9161-878b-47fc-a084-549ee52bbc6a = 제가 더 많은 답변을 드릴 수 있을 겁니다.
+	a33a9161-878b-47fc-a084-549ee52bbc6a = 더 많은 답변을 드릴 수 있을 겁니다.
 
 	////40. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
-	184e6db0-da2b-4262-abac-cc0dc1680fe1 = 녹스 사건의 질병이 확산하는 위협 때문에...
+	184e6db0-da2b-4262-abac-cc0dc1680fe1 = 녹스 사건의 확산에 대한 위협 때문에...
 
 	////41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
-	ce98252a-4e30-4532-b46e-bdf328380815 = 이 화면들은 복면을 쓴 젊은이들이 계속해서 싸우는 모습을 보여주고 있습니다...
+	ce98252a-4e30-4532-b46e-bdf328380815 = 이 화면에서는 오늘 복면을 쓴 청년들과...
 
 	////42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
-	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 타임스퀘어에 군대가 있습니다. 마이애미 해변에 탱크들이 있습니다.
+	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 타임스퀘어에 군 병력이 있습니다. 마이애미 해변에 전차들이 있습니다.
 
 	////43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
 	da14d0d0-b5e4-493d-bc55-4424e50cd975 = 트리플 N이 입수한 화면들은 격리 구역 내의 잔혹성을 보여 줍니다.
 
 	////44. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
-	c99cd365-ac9d-463d-be67-2901750c1595 = 우리는 트리플 N에서 여러분과 같은 생각을 하고 있습니다.
+	c99cd365-ac9d-463d-be67-2901750c1595 = 저희 트리플-N은 여러분과 같은 생각을 하고 있습니다.
 
 	////45. ORIGINAL [#FF7030A0]: If the fever didn't get to you...
 	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = 열이 나지 않는다면...
