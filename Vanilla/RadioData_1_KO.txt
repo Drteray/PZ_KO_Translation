@@ -149,34 +149,34 @@
 	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = 열이 나지 않는다면...
 
 	////46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
-	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = 밤중 대화에 오신걸 환영합니다. 새벽까지 함께 하시죠! 저는 돈 스티븐슨입니다.
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = 밤중 대화에 오신 걸 환영합니다. 새벽까지 함께 하시죠! 저는 던 스티븐슨입니다.
 
 	////47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
-	109f693d-3ebc-451d-97f0-4fd6d093f26e = 롤리에서 무언가 교훈을 얻었는지 궁금하네요.
+	109f693d-3ebc-451d-97f0-4fd6d093f26e = ...롤리에서 진짜 무슨 교훈을 얻긴 했나보다 싶습니다.
 
 	////48. ORIGINAL [#FF7030A0]: Thank you Richard. Keep the reports coming.
-	3f18f815-7017-41b2-ad00-6ddea2a2b19d = 고맙습니다 리처드. 다음 보도를 가져와보죠.
+	3f18f815-7017-41b2-ad00-6ddea2a2b19d = 고맙습니다 리처드. 계속해서 보도 부탁드립니다.
 
 	////49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
-	429d9b40-c818-4f7f-a07b-4931772fede1 = 사람들이 나쁜 길로 들어서고 있습니다, 그들은 혼란스럽고 당황했습니다.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = 사람들의 상태가 좋지 않고, 공황과 혼란에 빠져 있습니다.
 
 	////50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
 	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = 녹스 사건은 우리를 긴장하게 만듭니다.
 
 	////51. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
-	a5cd6429-d856-4662-9729-c9175f237540 = 우리는 다음과 같은 말을 들었습니다 : '의심의 여지를 없애야합니다.'...
+	a5cd6429-d856-4662-9729-c9175f237540 = 저희는 다음과 같은 말을 들었습니다, '의심의 여지를 없애기 위해서'.
 
 	////52. ORIGINAL [#FF00B050]: They don't want to risk more riots.
-	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = 더 많은 폭동을 감수하고 싶지는 않습니다.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = 정부는 더 많은 폭동을 감수하고 싶지는 않을 겁니다.
 
 	////53. ORIGINAL [#FF7030A0]: FUCK THIS SHIT!
-	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = 좆이나 까잡수라해!
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = 이 지랄도 다 좆까라 해!
 
 	////54. ORIGINAL [#FFFFC000]: There were thousands of infected, and they left their mark.
-	20a8ee60-553a-45ce-add3-dbe20fd5555f = 수천 명의 감염자들이 있었고, 그리고 그들이 흔적을 남겼습니다.
+	20a8ee60-553a-45ce-add3-dbe20fd5555f = 수천 명의 감염자들이 있었고, 감염자들은 흔적을 남겼습니다.
 
 	////55. ORIGINAL [#FFFFC000]: People who sustained infected attacks in yesterday's chaotic scenes.
-	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = 어제 감염자들로부터 공격을 받은 사람이 찍힌 장면이 있습니다.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = 어제의 혼돈에서 감염자들의 공격을 피한 사람들입니다.
 
 	////56. ORIGINAL [#FFFFC000]: That can't be true.
 	de1a7a5c-e799-4a92-b942-d7683f46449a = 그럴 리가 없어요.
