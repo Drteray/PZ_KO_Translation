@@ -50,64 +50,64 @@
 	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = <먼 곳에서 폭발하는 소리>
 
 	////13. ORIGINAL [#FF7030A0]: Warning shots.
-	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 경고 사격이었습니다.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 경고 사격이었답니다.
 
 	////14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
-	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] 내가 말할 수 있다면... [img=music]
+	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] 당신을 붙잡기 위해... [img=music]
 
 	////15. ORIGINAL [#FF7030A0]: [img=music] Anything that would make you stay. [img=music]
-	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] 당신을 머물게 하는 어떤 것이라도. [img=music]
+	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] 뭐라도 말할 수 있다면. [img=music]
 
 	////16. ORIGINAL [#FF7030A0]: [img=music] You know I would. You know. [img=music]
-	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] 그럴 거란 거 알잖아. 알잖아요. [img=music]
+	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] 그럴 거란 거 알잖아요. 알고 있잖아요. [img=music]
 
 	////17. ORIGINAL [#FF7030A0]: [img=music] I never wanted to step in your way... [img=music]
-	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] 당신을 방해하고 싶지 않았어요... [img=music]
+	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] 당신의 앞길을 막고 싶진 않았어요... [img=music]
 
 	////18. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh... [img=music]
-	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] 그리고 당신... 당신도 날 사랑하는거 알아요, 오오... [img=music]
+	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] 그리고 당신도... 저를 사랑하잖아요, 오오... [img=music]
 
 	////19. ORIGINAL [#FF7030A0]: [img=music] You love me too. [img=music]
-	fc02e25d-971d-452f-b5c3-957eaa631e0f = [img=music] 당신도 날 사랑하죠. [img=music]
+	fc02e25d-971d-452f-b5c3-957eaa631e0f = [img=music] 당신도 저를 사랑해요. [img=music]
 
 	////20. ORIGINAL [#FF7030A0]: [img=music] You do. [img=music]
-	b093f7d5-77a2-4f39-af2a-a73964baa7b0 = [img=music] 당신은 그래요. [img=music]
+	b093f7d5-77a2-4f39-af2a-a73964baa7b0 = [img=music] 저를 사랑해요. [img=music]
 
 	////21. ORIGINAL [#FF7030A0]: [img=music] Sweetheart darling, you... [img=music]
-	e95407c3-883e-46fe-a612-c4dbcd39ea3b = [img=music] 사랑스런 자기야, 당신은... [img=music]
+	e95407c3-883e-46fe-a612-c4dbcd39ea3b = [img=music] 사랑하는 자기, 당신도... [img=music]
 
 	////22. ORIGINAL [#FF7030A0]: [img=music] Do... [img=music]
-	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] 그래요... [img=music]
+	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] 저를 사랑하지요... [img=music]
 
 	////23. ORIGINAL [#FF7030A0]: [img=music] You just know, right where I'll be. [img=music]
-	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] 알아두세요, 내가 있을 곳. [img=music]
+	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] 당신도 알아요, 제가 있는 곳을요. [img=music]
 
 	////24. ORIGINAL [#FF7030A0]: [img=music] Just turn around. It's me you'll see. [img=music]
-	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] 그냥 뒤로 돌아봐. 너에게 보이는 건 나야. [img=music]
+	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] 주변을 돌아보면. 제가 보일 거예요. [img=music]
 
 	////25. ORIGINAL [#FF7030A0]: [img=music] I can't lie. [img=music]
-	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] 거짓말할 수 없어. [img=music]
+	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] 전 거짓말을 하지 않아요. [img=music]
 
 	////26. ORIGINAL [#FF7030A0]: [img=music] You'll see me cry. [img=music]
-	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] 내가 우는 걸 보게 되겠지. [img=music]
+	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] 제 눈물을 보게 될 거에요. [img=music]
 
 	////27. ORIGINAL [#FF7030A0]: [img=music] You'll know that a true heart can bleed. [img=music]
-	62afca05-35b8-4243-b686-bf160368826f = [img=music] 진짜 심장은 피를 흘린다는 걸 알게 될거야. [img=music]
+	62afca05-35b8-4243-b686-bf160368826f = [img=music] 진정한 마음은 피를 흘릴 수 있다는 걸 알게 될 거에요. [img=music]
 
 	////28. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh. [img=music]
-	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] 그리고 당신... 당신도 날 사랑하는거 알아요, 오오. [img=music]
+	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] 그리고 당신도... 당신 자신도 날 사랑한다는 걸 알고 있어요, 오오. [img=music]
 
 	////29. ORIGINAL [#FF7030A0]: ... by The Question.
-	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = ... 질문입니다.
+	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = ...숨겨진입니다.
 
 	////30. ORIGINAL [#FFFFC000]: [img=music] ... to get a dime stuck in your shoe. [img=music]
-	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ... 당신의 신발에 낀 동전이라도 얻어야겠어요. [img=music]
+	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ...너무나도 잔혹한 일이야. [img=music]
 
 	////31. ORIGINAL [#FFFFC000]: [img=music] And now yessir I'm sinking... [img=music]
 	79b24afa-80a6-4491-ac53-4a85b0eccd26 = [img=music] 그리고 지금 난 정말 가라앉고 있어... [img=music]
 
 	////32. ORIGINAL [#FFFFC000]: [img=music] My boy once asked me, before he went away. [img=music]
-	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] 내 아들이 떠나기 전에 내게 물어본 적이 있어. [img=music]
+	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] 그가 언젠가 떠나기 전, 내게 물었지. [img=music]
 
 	////33. ORIGINAL [#FF7030A0]: A military perimeter set up almost overnight.
 	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = 거의 하룻밤 사이에 군사 경계선이 설치되었습니다.
