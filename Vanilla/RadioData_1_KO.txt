@@ -248,31 +248,31 @@
 	c9b01cec-94a2-4fb0-95d2-0677e237538f = 혼돈의 심연에 구세계의 대공을 빠뜨린 녀석이 우리 중에 있다는 건가?
 
 	////79. ORIGINAL [Red]: Sponsored by Spiffo's?!
-	980e2e5d-fb55-417d-a38d-7d08838abdaf = 스피포의 후원?!
+	980e2e5d-fb55-417d-a38d-7d08838abdaf = 스피포 제공?!
 
 	////80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
-	a706a64e-f46a-407f-b853-91c7e0b607bf = 재커리, 시소 한 번 타볼까요?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = 그리고 재커리, 시소 타 볼래요?
 
 	////81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
-	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 저 우아한 스위스 퐁듀 세트말이죠? £33.99 입니다.
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 저 우아한 스위스 퐁듀 세트? 33.99£야.
 
 	////82. ORIGINAL [Yellow]: I... Die!
-	72ff543a-10c4-409f-a7c2-9603dc521c11 = 으...윽!
+	72ff543a-10c4-409f-a7c2-9603dc521c11 = 으... 윽!
 
 	////83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
-	a44a5560-5f13-4575-9cd4-9a931123f3fd = 두더지 몰리? 코가 실룩거리지 않나요?
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = 두더지 몰리? 코가 사랑스럽게 실룩거리지 않아?
 
 	////84. ORIGINAL [#FF00B050]: Let's help your little friend here...
-	845988d3-0acf-464a-952e-b0b05050ad46 = 여기 너의 작은 친구를 도와주자...
+	845988d3-0acf-464a-952e-b0b05050ad46 = 여기 네 작은 친구를 도와주자...
 
 	////85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
-	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 배달료랑 포장비 포함해서, $15.99에요
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15.99$에 배송료 별도!
 
 	////86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
 	4f019495-c989-495d-8c31-ed833ef9c7e7 = 밤하늘이 어두워지면, 나를 기억해주기를 부탁한다.
 
 	////87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
-	3707534c-49f2-4dc1-bbff-6ef689a945e7 = 털복숭이 토끼 플러피풋? 이렇게 털이 복실복실한 토끼를 본 적 있나요?
+	3707534c-49f2-4dc1-bbff-6ef689a945e7 = 털복숭이 토끼 플러피풋? 이렇게 털이 복실복실한 토끼를 본 적 있어?
 
 	////88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
 	1046a459-6ead-4145-acc5-192fa0e4398d = 오늘 아침의 LBMW입니다 : 우리에게 '실내에 머물러달라'고 합니다.
