@@ -221,13 +221,13 @@
 	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] 오케스트라 음악 [img=music]
 
 	////70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
-	4e76091e-9469-4004-9b8e-066d57cd91bc = 오이드 박사는 최근 대인기인 블록버스터입니다...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = 오이드 박사는 최근 대인기인 블록버스터 영화로...
 
 	////71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
 	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = 오이드 박사의 역할은 어떻게 준비했나요?
 
 	////72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
-	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = 오이드 박사는 지금 극장에서 상영 중입니다. 여러분.
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = 오이드 박사는 지금 극장에서 상영 중입니다 여러분!
 
 	////73. ORIGINAL [Black]: *bang!* *bang*
 	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = <탕!> <탕!>
@@ -236,13 +236,13 @@
 	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *법정에서 박수 소리*
 
 	////75. ORIGINAL [#FF00B050]: Paul, you're on 2000 dollars! Well done!
-	c0402817-3eb0-46ca-b709-64ae6638e745 = 폴, 2000$를 따냈습니다! 잘하셨습니다!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = 폴, 2000$를 따 냈습니다! 잘하셨습니다!
 
 	////76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
-	d7e9480d-695c-4dd1-92af-ad2ec640d201 = 3000$ 문제 : 답은 '뉴캐슬'입니다.
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = 3000$ 문제, 답은 '뉴캐슬'입니다.
 
 	////77. ORIGINAL [#FF00B050]: Robert Johnson, you're on 1000 dollars! Well done!
-	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = 로버트 존슨 씨, 1000$를 얻으셨습니다! 잘하셨습니다!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = 로버트 존슨, 1000$를 얻으셨습니다! 잘하셨습니다!
 
 	////78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
 	c9b01cec-94a2-4fb0-95d2-0677e237538f = 혼돈의 심연에 구세계의 대공을 빠뜨린 녀석이 우리 중에 있다는 건가?
