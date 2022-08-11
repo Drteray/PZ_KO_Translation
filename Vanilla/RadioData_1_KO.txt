@@ -275,19 +275,19 @@
 	3707534c-49f2-4dc1-bbff-6ef689a945e7 = 털복숭이 토끼 플러피풋? 이렇게 털이 복실복실한 토끼를 본 적 있어?
 
 	////88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
-	1046a459-6ead-4145-acc5-192fa0e4398d = 오늘 아침의 LBMW입니다 : 우리에게 '실내에 머물러달라'고 합니다.
+	1046a459-6ead-4145-acc5-192fa0e4398d = 오늘 아침 LBMW는 우리에게 '실내에 머물러달라'고 했습니다.
 
 	////89. ORIGINAL [#FF00B050]: You'll just need to find a way to distract the...
-	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = 주의를 돌릴만한게 필요합니다 저기...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = 여러분은 저기 문 밖에 있는...
 
 	////90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
-	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = 그럼 내가 가야 할 곳을 알겠네요!
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = 내가 어딜 갈지 알아냈어!
 
 	////91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
-	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 내 *맘*은 웤 앤 롤' 하루!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 나는 오늘 웍 앤 롤을 *하트* 해!
 
 	////92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
-	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] 로봇 춤을 추게 하자 [img=music]
+	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] 로봇 춤을 추자 [img=music]
 
 	////93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
 	75fa01e1-5c17-493a-b539-1d009ade45f2 = 닥터 오이드, 전체 관람가.
@@ -296,9 +296,9 @@
 	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 가족 주치의로서 이것을 추천할 수 있게 되어 기쁩니다. 요실해방.
 
 	////95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
-	77383a36-ae45-466d-9c4c-78c036d2862f = 난 조 맥켄지야, 녹스 컨트리 Pony Roam-O을 운영하고 있지.
+	77383a36-ae45-466d-9c4c-78c036d2862f = 저는 조 맥켄지고, 녹스 컨트리 포니 롬 오를 운영하고 있습니다.
 
 	////96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
-	c09412e4-f02c-4735-9397-5736fd0ac2e6 = 말은 우리 나라가 제공하는 최고의 동물이지.
+	c09412e4-f02c-4735-9397-5736fd0ac2e6 = 말은 우리나라가 기르는 최고의 동물이죠.
 
 [/Translations]
