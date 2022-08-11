@@ -182,31 +182,31 @@
 	de1a7a5c-e799-4a92-b942-d7683f46449a = 그럴 리가 없어요.
 
 	////57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
-	47c01a90-d68e-483a-9271-24b7e7e60178 = 배달료랑 포장비 포함해서, $15.99에요!
+	47c01a90-d68e-483a-9271-24b7e7e60178 = 15.99$에 배송료 별도!
 
 	////58. ORIGINAL [#FF7030A0]: You know why we're here...
-	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = 우리가 왜 여기에 있는지 알고 계시죠...
+	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = 우리가 왜 여기 있는지 아실 겁니다...
 
 	////59. ORIGINAL [#FF00B050]: <sigh>
 	4d474699-6df3-4b02-beec-bdea6b0a8e55 = <한숨>
 
 	////60. ORIGINAL [#FFFFC000]: Take a trowel. A shovel... hell maybe even your bare hands.
-	d5a7a459-120c-46d2-915a-84ba1453d013 = 먼저 흙을 파세요. 삽이나... 심지어 지옥같더라도 손으로라도 말이죠.
+	d5a7a459-120c-46d2-915a-84ba1453d013 = 모종삽을 준비하세요. 아니면 삽이나... 심지어 맨손으로도 가능합니다.
 
 	////61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
-	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = 어디서든 제가 가면, 좋은 사람들이 '고맙습니다 콕스 박사님' 이라 하죠.
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = 제가 어딜 가든, 좋은 사람들이 '콕스 박사님, 감사합니다.'하고 말하죠.
 
 	////62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
-	fc89eb09-6ed8-4d34-a175-19b234f583fc = 제가 저번에 저울에 서 있었는데...
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = 제가 저번에 체중계에 올라가 봤는데...
 
 	////63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
-	dbaceec5-1ead-424d-809b-61a681de22c8 = 판자 4개! 못 4개! 손잡이 하나! 경첩 하나!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = 판자 네 개! 못 네 개! 손잡이 하나! 경첩 두 개!
 
 	////64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
-	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = 나무 조각 3개를 집고 - 판자도 될겁니다.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = 나무 조각 세 개를 집으세요, 아니면 판자나요.
 
 	////65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
-	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = 스칸디나비아가 그렇게 굉장한 곳인지 전혀 몰랐습니다!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = 스칸디나비아가 그렇게 굉장한 곳인지 전혀 몰랐는걸요!
 
 	////66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
 	85b904e0-14e3-4daf-b354-33a7eb31df83 = 잘 지내셨나요? 요리 쇼를 시청 중입니다!
@@ -293,7 +293,7 @@
 	75fa01e1-5c17-493a-b539-1d009ade45f2 = 닥터 오이드, 전체 관람가.
 
 	////94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
-	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 감사하게도 가정 의학에서도 추천을 받죠: 요실해방.
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 가족 주치의로서 이것을 추천할 수 있게 되어 기쁩니다. 요실해방.
 
 	////95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
 	77383a36-ae45-466d-9c4c-78c036d2862f = 난 조 맥켄지야, 녹스 컨트리 Pony Roam-O을 운영하고 있지.
